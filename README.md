@@ -9,5 +9,5 @@ Just use `{{ 'admin@example.com' | gravatar }}`. It'll return the link to your G
 
 ### Example:
 ```html
-<img src="{{ 'admin@example.com' | gravatar }}" atl="My Gravatar">
+<img src="{{ 'admin@example.com' | gravatar }}" alt="My Gravatar">
 ```
